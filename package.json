@@ -14,13 +14,17 @@
   "author": "Jessie",
   "license": "ISC",
   "babel": {
-    "presets": ["env", "react"]
+    "presets": [
+      "env",
+      "react"
+    ]
   },
   "bugs": {
     "url": "https://github.com/iamseye/reactAppLanding/issues"
   },
   "homepage": "https://github.com/iamseye/reactAppLanding#readme",
   "dependencies": {
+    "prop-types": "^15.5.10",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
     "webpack": "^3.0.0"
